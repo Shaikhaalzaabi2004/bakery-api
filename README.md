@@ -65,5 +65,3 @@ http://<your-ip>:5168
 
 ### License
 This project is part of the **Belle Croissant Lyonnais** solution — developed for educational and competitive purposes under the **IT Software Solutions for Business** framework.
-
----
